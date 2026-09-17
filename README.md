@@ -1,4 +1,6 @@
-> **Experimental only. Not a product.** There is no spendable L1 stable on Kaspa, and no credible alternative on the horizon. Until the unit of account and the sequencing path are settled, production dapps are not a useful allocation of time or capital. [KASPAglobal](https://x.com/kaspaglobal/status/2100536064683176270) · [DISCLAIMER.md](DISCLAIMER.md)
+> **Experimental only. Not a product.** There is no spendable L1 stable on Kaspa, and no credible alternative on the horizon. Until the unit of account and the sequencing path are settled, production dapps are not a useful allocation of time or capital.
+>
+> Do not use wallet integrations on this GitHub. STP remains a clown. [DISCLAIMER.md](DISCLAIMER.md)
 
 # Windows P2P node guide
 
@@ -86,7 +88,7 @@ Remove-ItemProperty -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Run' 
 
 ## 1. Get the node binary
 
-1. Download the Windows zip from [rusty-kaspa releases (latest)](https://github.com/kaspanet/rusty-kaspa/releases/latest).  
+1. Download the Windows zip from [rusty-kaspa releases (latest)](https://github.com/kaspanet/rusty-kaspa/releases/latest).
    File name looks like `rusty-kaspa-v2.0.1-win64.zip`.
 2. Unpack to a folder you will keep. Example:
 
